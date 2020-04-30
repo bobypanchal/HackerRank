@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class DS_2D_Array {
 
     // Complete the hourglassSum function below.
     static int hourglassSum(int[][] arr) {
