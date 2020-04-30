@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Left_Rotation {
 
 private static final Scanner scanner = new Scanner(System.in);
 
