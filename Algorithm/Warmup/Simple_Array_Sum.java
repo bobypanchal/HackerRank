@@ -10,10 +10,10 @@ public class Simple_Array_Sum {
      * Complete the simpleArraySum function below.
      */
     static int simpleArraySum(int[] ar) {
-        /*
-         * Write your code here.
-         */
-
+        int sum = 0;
+        for(int a : ar)
+            sum += a;
+        return sum;
     }
 
     private static final Scanner scanner = new Scanner(System.in);
